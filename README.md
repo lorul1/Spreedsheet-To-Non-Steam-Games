@@ -116,16 +116,7 @@ Unknown at this time. It's safe to enter zero
 
 There are a number of traits that steam does not track for Non-Steam games, that it DOES track for native steam games. So because of that, Unfortunately I could not implement them into the spreadsheet. Here is a list of the (unfortunately) unchangeable game traits (At time of writing).  
 
--Time played (both for last two weeks and total)
--Friends Playing
--% of achievements complete (duh)
--Hours played
--Release Date
--Meticritic Score
--Steam Review (score)
--Size on disk
--tags used by the steam store such as “Single-Player” “multi-player” “Coopertave Play” “Full Controller Support”, etc
--”detailed information” (such as community hub, activity, guides, friends who play)
+Time played (both for last two weeks and total).  Friends Playing.   % of achievements complete (duh).   Hours played.   Release Date.   Meticritic Score.   Steam Review (score).   Size on disk.   Tags used by the steam store (such as “Single-Player” “multi-player” “Coopertave Play” “Full Controller Support”, etc).    ”detailed information” (such as community hub, activity, guides, friends who play)
 
 ## How to Add Emulated Games Individually To Your Steam Library, Instead of The Whole Entire Emulators Themselves
 
