@@ -3,7 +3,7 @@ Fill out a template Spreadsheet to import hundreds of non-steam games or apps in
 
 ## How Does It Work
 
-## Where Do I Start / Download link
+## Where Do I Start / How do I Download
 Template Spreadsheet
 
 The Spreadsheet Template is required. Do not generate your own spreadsheet and expect it to work. USE THE TEMPLATE.
@@ -11,7 +11,7 @@ The Spreadsheet Template is required. Do not generate your own spreadsheet and e
 The spreadsheet contains 22 Columns.
 do NOT delete ANY column and do not delete this first row either or the app won't work, resizing columns width only!
 
-## Usage
+## More Info On Each Column (it's importat that you concider reading this)
 
 <details><summary><b>Column A - SteamLocation and Notes</b></summary>
 Column A row 0 is extremely important, You will want to put the location of your Steam VDF
@@ -64,55 +64,57 @@ The app will copy, paste, then rename the copy of that picture into the followin
 At this time the app does not support links to images but I am looking into adding this feature which will be very useful for pointing to a steamGrid photo. (Note if/when support for this feature comes it will downloaded the image onto your device and place it in the steam folder it needs to be in to show up in your library) Examples comes in included in the (required) template Spreadsheet file. If you are unsure about what a Steam games cover icon art is, or dont want it applied, then leave this row empty. 
 </details>
 
-<details><summary><b>Column K - Location of Logo json</b></summary>
-Test
+<details><summary><b>Column K - Location of Logo json File</b></summary>
+A json file is used to adjust the logo position. Type out the directory of the file with the file extension. If you are unsure about what a Steam games cover art is, or don't want it applied, then leave this row empty.
 </details>
 
 <details><summary><b>Column L - App ID/ Entry ID</b></summary>
-Test
+Please leave this row completely empty.  int 10 chars
 </details>
 
 <details><summary><b>Column M - ShortcutPath</b></summary>
-Test
+Unknown. Might be Vestigial. It's safe to leave this row empty and appears empty in the template spreadsheet.
 </details>
 
 <details><summary><b>Column N - LaunchOptions</b></summary>
-Test
+Enter any launch options here. If unsure leave this row empty as seen in the template spreadsheet.
 </details>
 
 <details><summary><b>Column O - AllowOverlay</b></summary>
-Test
+This column detemns weather or not the steam overlay should be enabled or disabled. The steam overlay is that menu that appears overtop of games when the controllers home button is pressed. 0 stands for off (disabled), while 1 stands for on (enabled). This is useful as very rarely some non steam games will crash when the steam overlay is active/activated. This setting actually might also be vestigial, and require testing. The example seen in the template spreadsheet enables the steam overlay for every game, which is what users would typically want, so if you are unsure just set all your rows to 1 under this column.
 </details>
 
 <details><summary><b>Column P - AllowDesktopConfig</b></summary>
-Test
+Just type either a 0 or 1
 </details>
 
 <details><summary><b>Column Q - IsHidden</b></summary>
-Test
+Might be Vestigial, Just Type either a 0 or 1. Enter zero if unsure
 </details>
 
 <details><summary><b>Column R - LastPlayTime</b></summary>
-Test
+Might be Vestigial, Just Type either a 0 or 1. Enter zero if unsure
 </details>
 
 <details><summary><b>Column S - OpenVR</b></summary>
-Test
+I believe that this option. Just Type either a 0 or 1, If unsure enter 0
 </details>
 
 <details><summary><b>Column T - Devkit</b></summary>
-Test
+Unknown. Possibley an Int Number. It's safe to enter enter zero in the rows you create under this column.
 </details>
 
 <details><summary><b>Column U - DevkitGameID</b></summary>
-Test
+Unknown at this time. It's safe to leave the rows under this column empty.
 </details>
 
 <details><summary><b>Column V - DevkitOverrideAppID</b></summary>
-Test
+Unknown at this time. It's safe to enter zero
 </details>
 
-There are a number of traits that steam does not track for Non-Steam games, that it DOES track for native steam games. So because of that, Unfortunately I could not invuled them into the spreadsheet it cant be included in the spreadsheet. Here is a list of unfortunately unchangeable (at time of writing) settings
+## Limitations
+
+There are a number of traits that steam does not track for Non-Steam games, that it DOES track for native steam games. So because of that, Unfortunately I could not implement them into the spreadsheet. Here is a list of the (unfortunately) unchangeable game traits (At time of writing).  
 
 -Time played (both for last two weeks and total)
 -Friends Playing
@@ -124,5 +126,12 @@ There are a number of traits that steam does not track for Non-Steam games, that
 -Size on disk
 -tags used by the steam store such as “Single-Player” “multi-player” “Coopertave Play” “Full Controller Support”, etc
 -”detailed information” (such as community hub, activity, guides, friends who play)
+
+## How to Add Emulated Games Individually To Your Steam Library, Instead of The Whole Entire Emulators Themselves
+
+## How to Add Custom Art / Where do I find it
+
+## Known issues and To-Do List
+
 
 
