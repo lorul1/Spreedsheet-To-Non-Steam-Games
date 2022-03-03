@@ -1,7 +1,11 @@
-# Spreedsheet-To-Non-Steam-Games
-Fill out a template Spreadsheet to import hundreds of non-steam games or apps into your Steam Library quickly.
+<h1 align="center">
+  <br>
+  <b>Spreedsheet-To-Non-Steam-Games</b>
+  <br>
+</h1>
 
-## How Does It Work
+<h4 align="center"> Fill out a template Spreadsheet to import hundreds of non-steam games or apps into your Steam Library quickly.</h4>
+
 
 ## Where Do I Start / How do I Download
 Template Spreadsheet
@@ -120,9 +124,6 @@ Time played (both for last two weeks and total).  Friends Playing.   % of achiev
 
 ## How to Add Emulated Games Individually To Your Steam Library, Instead of The Whole Entire Emulators Themselves
 
-## How to Add Custom Art / Where do I find it
+## How to Add Custom Library Art / Where Do I Find it
 
 ## Known issues and To-Do List
-
-
-
