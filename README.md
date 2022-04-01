@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://i.imgur.com/JBHWXnX.jpg" alt="Spreedsheet To Non-Steam Games" width="1800"></a>
+  <a href="https://i.imgur.com/JBHWXnX.jpeg"><img src="https://i.imgur.com/JBHWXnX.jpg" alt="Spreedsheet To Non-Steam Games" width="1800"></a>
   <br>
 </h1>
 
