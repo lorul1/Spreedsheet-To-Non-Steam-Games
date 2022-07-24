@@ -27,10 +27,10 @@ Start by downloading and filling out the Template Spreadsheet. An example of a p
 • The Spreadsheet contains 22 Columns. <br>
 
 
-## How to Fill Out Each Column on The Template Spreadsheet (it's importat that you concider reading this)
+## How to Fill Out Each Column on The Template Spreadsheet
 
-The first row of the Template Spreadsheet will give you general information on what should live under each column. Expand an option below for more detailed info:<br>
-Remeber: DO NOT delete the first row and DO NOT delete or move ANY column when filling out the Template Spreadsheet.<br> <br>
+The first row of the Template Spreadsheet will give you general information on what should live under each column. Expand an option below for more detailed info on each column:<br><br>
+Remeber: DO NOT delete the first row and DO NOT delete or move ANY column when filling out the Template Spreadsheet.<br> 
 (View a picture example of a completed speadsheet below)<br>
 
 <details><summary><b>Column A - localconfig.VDF Location and Notes</b></summary>
@@ -38,7 +38,8 @@ Column A Row 0 is extremely important, You are REQUIRED to paste the directory o
 Here is an example of what should be in the Column A Row 0:<br><br>
 C:\Program Files (x86)\Steam\userdata\119139580\config\localconfig.vdf<br><br>
 (ensure the "localconfig.vdf" is on the end of the directory, just like you can see above)<br>
-After that is complete, you do not need to repeat this for subsequent rows. Instead, the other rows get ignored by the app and are great for your own notes and organization. 
+After that is complete, you do not need to repeat this for subsequent rows. Instead, the other rows get ignored by the app and are great for your own notes and organization. For you Steam Deck or Linux users, try this for Column A Row 0:<br>
+????/Steam/userdata/119139580/config/localconfig.vdf
 </details>
 
 <details><summary><b>Column B - Application Name</b></summary>
@@ -145,4 +146,14 @@ Time played (both for last two weeks and total).  Friends Playing.   % of achiev
 
 ## How to Add Custom Library Art / Where Do I Find it
 
-## Known issues and To-Do List
+## Known Issues and To-Do List
+
+<details><summary><b>Known Issues</b></summary>
+• Unknown at this time.
+</details>
+
+<details><summary><b>To-Do List</b></summary>\
+• Exisiting Steam Addon-Library TO Spreadsheet Functionality
+• Mac Support
+• Playnite Support
+</details>
