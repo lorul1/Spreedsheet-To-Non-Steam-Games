@@ -4,16 +4,18 @@
   <br>
 </h1>
 
-<h4 align="center"> Fill out the template spreadsheet, then run the app to quickly import hundreds of non-Steam Games, DRM-free Games, Emulated Games, or Applications into your Steam Library.</h4>
+<h4 align="left"> Fill out the template spreadsheet, then run the app to quickly import hundreds of non-Steam Games, DRM-free Games, Emulated Games, or Applications into your Steam Library!</h4>
 
 
 ## Where Do I Start / How do I Download
-Template Spreadsheet
+Start by downloading and filling out the Template Spreadsheet. An example of a properly completed spreadsheet can be viewed below!
 
-The Spreadsheet Template is required. Do not generate your own spreadsheet and expect it to work. USE THE TEMPLATE.
+• At this time you can not turn your already existing Non-Steam Game Library into a compatible spreadsheet.
+• Editing the Template Spreadsheet is required. Do not generate your own spreadsheet and expect it to work. EDIT AND USE THE TEMPLATE ONE.
+• DO NOT delete ANY column and do not delete this first row either or the app won't work! You CAN resize the columns width.
+• Spreadsheets can be opened and editied with programs such as Excel or Google Sheets. 
+• The Spreadsheet contains 22 Columns.
 
-The spreadsheet contains 22 Columns.
-do NOT delete ANY column and do not delete this first row either or the app won't work, resizing columns width only!
 
 ## More Info On Each Column (it's importat that you concider reading this)
 
