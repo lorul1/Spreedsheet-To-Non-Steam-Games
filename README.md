@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center"> Fill out a template Spreadsheet to import hundreds of non-steam games or apps into your Steam Library quickly.</h4>
+<h4 align="center"> Fill out the template spreadsheet, then run the app to quickly import hundreds of non-Steam Games, DRM-free Games, Emulated Games, or Applications into your Steam Library.</h4>
 
 
 ## Where Do I Start / How do I Download
