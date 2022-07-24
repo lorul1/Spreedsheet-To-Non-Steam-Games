@@ -152,8 +152,8 @@ Time played (both for last two weeks and total).  Friends Playing.   % of achiev
 • Unknown at this time.
 </details>
 
-<details><summary><b>To-Do List</b></summary>\
-• Exisiting Steam Addon-Library TO Spreadsheet Functionality
-• Mac Support
-• Playnite Support
+<details><summary><b>To-Do List</b></summary>
+• Exisiting Steam Addon-Library TO Spreadsheet Functionality <br>
+• Mac Support <br>
+• Playnite Support <br>
 </details>
