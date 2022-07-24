@@ -4,24 +4,41 @@
   <br>
 </h1>
 
-<h4 align="left"> Fill out the template spreadsheet, then run the app to quickly import hundreds of non-Steam Games, DRM-free Games, Emulated Games, or Applications into your Steam Library!</h4>
+<h2 align="left"> Fill out the template spreadsheet, then run the app to quickly import hundreds of non-Steam Games, DRM-free Games, Emulated Games, or Applications into your Steam Library! 
+</h2>
 
+<h5 align="center">
+• This application is Free, Open Source, and Lightweight. It also supports both Windows and Linux! <br> <br>  
+• This application does NOT install onto your Computer or Steam Deck. <br> 
+(which means it does not hide ANY files deep into your system, and can be deleted in a few clicks) <br> <br> 
+• Great for backing up your Non-Steam Game Library in spreadsheet form. <br>  
+(so you won't have to worry about loosing it, and adding the library back one by one) <br> <br> 
+• Easliy share the EXACT same Non-Steam Game library across multiple devices by cloning and changing a completed spreadsheet. <br>
+(ctrl+H  aka  "Find and replace" is your friend when it comes to editing a cloned spreadsheet for a diffrent devices game directories) <br> <br> 
+</h5> <br>
 
 ## Where Do I Start / How do I Download
 Start by downloading and filling out the Template Spreadsheet. An example of a properly completed spreadsheet can be viewed below!
 
-• At this time you can not turn your already existing Non-Steam Game Library into a compatible spreadsheet.
-• Editing the Template Spreadsheet is required. Do not generate your own spreadsheet and expect it to work. EDIT AND USE THE TEMPLATE ONE.
-• DO NOT delete ANY column and do not delete this first row either or the app won't work! You CAN resize the columns width.
-• Spreadsheets can be opened and editied with programs such as Excel or Google Sheets. 
-• The Spreadsheet contains 22 Columns.
+• At this time you can not turn your already existing Non-Steam Game Library into a compatible spreadsheet. <br>
+• Do NOT generate your own spreadsheet from scratch and expect it to work. DOWNLOAD, EDIT, AND USE THE TEMPLATE ONE.<br>
+• DO NOT delete the first row and DO NOT delete or move ANY column when filling out the Template Spreadsheet. You CAN resize the columns width for your convenience.<br>
+• Spreadsheets can be opened and editied with programs such as Microsoft Excel or (the free) Google Sheets. <br>
+• The Spreadsheet contains 22 Columns. <br>
 
 
-## More Info On Each Column (it's importat that you concider reading this)
+## How to Fill Out Each Column on The Template Spreadsheet (it's importat that you concider reading this)
 
-<details><summary><b>Column A - SteamLocation and Notes</b></summary>
-Column A row 0 is extremely important, You will want to put the location of your Steam VDF
-After that is complete you do not need to repeat it for any of the other rows, instead, these other rows can be used for your own organization and get ignored by the app. An example comes included in the template spreadsheet file. Remember this first row can not be deleted and the columns positions can not be moved.
+The first row of the Template Spreadsheet will give you general information on what should live under each column. Expand an option below for more detailed info:<br>
+Remeber: DO NOT delete the first row and DO NOT delete or move ANY column when filling out the Template Spreadsheet.<br> <br>
+(View a picture example of a completed speadsheet below)<br>
+
+<details><summary><b>Column A - localconfig.VDF Location and Notes</b></summary>
+Column A Row 0 is extremely important, You are REQUIRED to paste the directory of your localconfig.vdf. This file can be found ...
+Here is an example of what should be in the Column A Row 0:<br><br>
+C:\Program Files (x86)\Steam\userdata\119139580\config\localconfig.vdf<br><br>
+(ensure the "localconfig.vdf" is on the end of the directory, just like you can see above)<br>
+After that is complete, you do not need to repeat this for subsequent rows. Instead, the other rows get ignored by the app and are great for your own notes and organization. 
 </details>
 
 <details><summary><b>Column B - Application Name</b></summary>
