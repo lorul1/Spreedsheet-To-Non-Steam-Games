@@ -4,8 +4,9 @@
   <br>
 </h1>
 
-<h2 align="left"> Fill out the template spreadsheet, then run the app to quickly import hundreds of non-Steam Games, DRM-free Games, Emulated Games, or Applications into your Steam Library! 
-</h2>
+<h3 align="left"> Fill out The Template Spreadsheet, Then Run The Application. Quickly Import Hundreds of Non-Steam Games, DRM-Free Games, Fan-Made Games, Emulated Games, or Apps into your Steam Library!
+</h3>
+<hr>
 
 <h5 align="center">
 • This application is Free, Open Source, and Lightweight. It also supports both Windows and Linux! <br> <br>  
@@ -15,7 +16,7 @@
 (so you won't have to worry about loosing it, and adding the library back one by one) <br> <br> 
 • Easliy share the EXACT same Non-Steam Game library across multiple devices by cloning and changing a completed spreadsheet. <br>
 (ctrl+H  aka  "Find and replace" is your friend when it comes to editing a cloned spreadsheet for a diffrent devices game directories) <br> <br> 
-</h5> <br>
+</h5> <hr>
 
 ## Where Do I Start / How do I Download
 Start by downloading and filling out the Template Spreadsheet. An example of a properly completed spreadsheet can be viewed below!
