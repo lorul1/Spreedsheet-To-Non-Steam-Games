@@ -4,31 +4,29 @@
   <br>
 </h1>
 
-<h3 align="left"> Fill out The Template Spreadsheet, Then Run The Application. Quickly Import Hundreds of Non-Steam Games, DRM-Free Games, Fan-Made Games, Emulated Games, or Apps into your Steam Library!
+<h3 align="left"> Fill Out The Template Spreadsheet, Then Use This Application to Quickly Import Hundreds of Non-Steam Games, DRM-Free Games, Fan-Made Games, Emulated Games, or Apps into your Steam Library! ☕
 </h3>
 <hr>
 
 <h5 align="center">
 • This application is Free, Open Source, and Lightweight. It also supports both Windows and Linux! <br> <br>  
-• This application does NOT install onto your Computer or Steam Deck. <br> 
-(which means it does not hide ANY files deep into your system, and can be deleted in a few clicks) <br> <br> 
-• Great for backing up your Non-Steam Game Library in spreadsheet form. <br>  
-(so you won't have to worry about loosing it, and adding the library back one by one) <br> <br> 
-• Easliy share the EXACT same Non-Steam Game library across multiple devices by cloning and changing a completed spreadsheet. <br>
-(ctrl+H  aka  "Find and replace" is your friend when it comes to editing a cloned spreadsheet for a diffrent devices game directories) <br> <br> 
+• This application is portable and NOT install onto your PC. No hidden files, and can be deleted in a few clicks <br> <br> 
+• Great for backing up your Non-Steam Game shortcuts in spreadsheet form. <br> <br> 
+• Easliy share the EXACT same Non-Steam Game shortcuts across multiple computers. <br>
+(ctrl+H  aka  "Find and replace" is your friend when it comes to editing a cloned spreadsheet for a diffrent computers rom directories) <br> <br> 
 </h5> <hr>
 
-## Where Do I Start / How do I Download
+## Where Do I Start / How do I Download ⬇
 Start by downloading and filling out the Template Spreadsheet. An example of a properly completed spreadsheet can be viewed below!
 
 • At this time you can not turn your already existing Non-Steam Game Library into a compatible spreadsheet. <br>
 • Do NOT generate your own spreadsheet from scratch and expect it to work. DOWNLOAD, EDIT, AND USE THE TEMPLATE ONE.<br>
-• DO NOT delete the first row and DO NOT delete or move ANY column when filling out the Template Spreadsheet. You CAN resize the columns width for your convenience.<br>
+• DO NOT delete the first row, and DO NOT delete or move ANY column when filling out the Template Spreadsheet. You CAN resize the columns width for your convenience.<br>
 • Spreadsheets can be opened and editied with programs such as Microsoft Excel or (the free) Google Sheets. <br>
 • The Spreadsheet contains 22 Columns. <br>
 
 
-## How to Fill Out Each Column on The Template Spreadsheet
+## How to Fill Out Each Column on The Template Spreadsheet 📝
 
 The first row of the Template Spreadsheet will give you general information on what should live under each column. Expand an option below for more detailed info on each column:<br><br>
 Remeber: DO NOT delete the first row and DO NOT delete or move ANY column when filling out the Template Spreadsheet.<br> 
@@ -37,10 +35,10 @@ Remeber: DO NOT delete the first row and DO NOT delete or move ANY column when f
 <details><summary><b>Column A - localconfig.VDF Location and Notes</b></summary>
 Column A Row 0 is extremely important, You are REQUIRED to paste the directory of your localconfig.vdf. This file can be found ...
 Here is an example of what should be in the Column A Row 0:<br><br>
-C:\Program Files (x86)\Steam\userdata\119139580\config\localconfig.vdf<br><br>
+C:\Program Files (x86)\Steam\userdata\123456789\config\localconfig.vdf<br><br>
 (ensure the "localconfig.vdf" is on the end of the directory, just like you can see above)<br>
 After that is complete, you do not need to repeat this for subsequent rows. Instead, the other rows get ignored by the app and are great for your own notes and organization. For you Steam Deck or Linux users, try this for Column A Row 0:<br>
-????/Steam/userdata/119139580/config/localconfig.vdf
+????/Steam/userdata/123456789/config/localconfig.vdf
 </details>
 
 <details><summary><b>Column B - Application Name</b></summary>
@@ -137,17 +135,17 @@ Unknown at this time. It's safe to leave the rows under this column empty.
 Unknown at this time. It's safe to enter zero
 </details>
 
-## Limitations
+## Limitations 🔒
 
-There are a number of traits that steam does not track for Non-Steam games, that it DOES track for native steam games. So because of that, Unfortunately I could not implement them into the spreadsheet. Here is a list of the (unfortunately) unchangeable game traits (At time of writing).  
+There are a number of traits that Steam does not track for your Non-Steam game shortcuts. So because of that, Unfortunately I could not implement them into the spreadsheet. Here is a list of the unchangeable game traits.  
 
 Time played (both for last two weeks and total).  Friends Playing.   % of achievements complete (duh).   Hours played.   Release Date.   Meticritic Score.   Steam Review (score).   Size on disk.   Tags used by the steam store (such as “Single-Player” “multi-player” “Coopertave Play” “Full Controller Support”, etc).    ”detailed information” (such as community hub, activity, guides, friends who play)
 
-## How to Add Emulated Games Individually To Your Steam Library, Instead of The Whole Entire Emulators Themselves
+## How to Add Emulated Games Individually To Your Steam Library, Instead of The Whole Entire Emulators Themselves 🎮
 
-## How to Add Custom Library Art / Where Do I Find it
+## How to Add Custom Library Art / Where Do I Find it 🔍
 
-## Known Issues and To-Do List
+## Known Issues and To-Do List 📃
 
 <details><summary><b>Known Issues</b></summary>
 • Unknown at this time.
