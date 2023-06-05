@@ -37,8 +37,8 @@ Column A Row 0 is extremely important, You are REQUIRED to paste the directory o
 Here is an example of what should be in the Column A Row 0:<br><br>
 C:\Program Files (x86)\Steam\userdata\123456789\config\localconfig.vdf<br><br>
 (ensure the "localconfig.vdf" is on the end of the directory, just like you can see above)<br>
-After that is complete, you do not need to repeat this for subsequent rows. Instead, the other rows get ignored by the app and are great for your own notes and organization. For you Steam Deck or Linux users, try this for Column A Row 0:<br>
-????/Steam/userdata/123456789/config/localconfig.vdf
+After that is complete, you do not need to repeat this for subsequent rows under column A. The other rows under column A get ignored by the app and are great for your own notes and organization. For you Steam Deck or Linux users, try this for Column A Row 0:<br>
+/home/deck/.steam/steam/userdata/123456789/config/localconfig.vdf
 </details>
 
 <details><summary><b>Column B - Application Name</b></summary>
@@ -46,7 +46,7 @@ Type out the application name, no quotes needed. Examples comes in included in t
 </details>
 
 <details><summary><b>Column C - Steam Collections (AKA categories or tags)</b></summary>
-Tags (These are also known as collections, great for grouping your games together into categoires. YOU MUST CREATE THE CATEGORIES IN STEAM FIRST, at this time this spreedsheet will not do that for you. Examples comes in included in the (required) template Spreadsheet file. If you are unsure what Steam Collections are, then leave this row empty.
+Tags aka Categories aka groups aka collections. These great for grouping your games together into groups. YOU MUST CREATE THE CATEGORIES IN STEAM FIRST, at this time this spreedsheet will not do that for you. Examples comes in included in the (required) template Spreadsheet file. If you are unsure what Steam Collections are or don't wish to use them then leave this row empty.
 </details>
 
 <details><summary><b>Column D - Target/Exe</b></summary>
@@ -54,11 +54,11 @@ This points to the exe of the Non-Steam game/app. Type out the exe’s directory
 </details>
 
 <details><summary><b>Column E - Start In/StartDir</b></summary>
-(The folder that the exe is located in) Type the folder directory of the exe in quotes. Examples comes in included in the (required) template Spreadsheet file.
+(The folder that the exe is located in) Type the folder directory which contains the desired exe in quotes. Examples comes in included in the (required) template Spreadsheet file.
 </details>
 
 <details><summary><b>Column F - Cover Art Location</b></summary>
-This column allows you to fill out the look of that Vertical "book-like" cover art which is shown in the library (AKA "p"). Type out the directory of the file of your device (example: C:\Users\Name\Pictures\Pic.png) followed by .cover, then by the file extension.
+This column allows you to fill out the look of that Vertical "book-like" cover art which is shown in the library (The Steam programing knows this simpily as "p"). Type out the directory of the file of your device (example: C:\Users\Name\Pictures\Pic.png) followed by .cover, then by the file extension.
 The app will copy, paste, then rename the copy of that picture into the following folder (...\Steam\userdata\USER_ID\config\grid). PNG and JPG/JPEG and GIF’s are supported
 At this time the app does not support links to images but I am looking into adding this feature which will be very useful for pointing to a steamGrid photo. (Note if/when support for this feature comes it will download the image onto your device and place it in the steam folder it needs to be in to show up in your library) Examples comes in included in the (required) template Spreadsheet file. If you are unsure about what a Steam games cover art is, or don't want it applied, then leave this row empty. 
 </details>
@@ -116,15 +116,15 @@ Might be Vestigial, Just Type either a 0 or 1. Enter zero if unsure
 </details>
 
 <details><summary><b>Column R - LastPlayTime</b></summary>
-Might be Vestigial, Just Type either a 0 or 1. Enter zero if unsure
+Might be Vestigial, Just Type either a 0 or 1. Enter zero if unsure.
 </details>
 
 <details><summary><b>Column S - OpenVR</b></summary>
-I believe that this option. Just Type either a 0 or 1, If unsure enter 0
+I believe that this option enables your game to be shown in your VR library. Just Type either a 0 or 1, If unsure enter 0
 </details>
 
 <details><summary><b>Column T - Devkit</b></summary>
-Unknown. Possibley an Int Number. It's safe to enter enter zero in the rows you create under this column.
+Unknown at this time. Possibley an Int Number. It's safe to enter enter zero in the rows you create under this column.
 </details>
 
 <details><summary><b>Column U - DevkitGameID</b></summary>
